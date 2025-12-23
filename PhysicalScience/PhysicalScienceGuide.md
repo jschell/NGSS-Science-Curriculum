@@ -37,7 +37,7 @@ This unit explores how objects move and interact through forces, motion patterns
 Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.
 
 ---
-[Balanced and Unbalanced Forces](physicalscience-section1-3-ps2-1-balanced-and-unbalanced.md)
+[Balanced and Unbalanced Forces](PhysicalScience-Section1-3-PS2-1-Balanced-and-Unbalanced.md)
 ---
 ## COMPLETION CHECKLIST - Section 1
 
@@ -67,7 +67,7 @@ Student has completed when they have:
 Make observations and/or measurements of an object's motion to provide evidence that a pattern can be used to predict future motion.
 
 ---
-[Motion Patterns](PhysicalScience-Section1-3-PS2-2-MotionPatterns.md)
+[Motion Patterns](PhysicalScience-Section2-3-PS2-2-MotionPatterns.md)
 
 ---
 
@@ -98,7 +98,7 @@ Student has completed when they have:
 Ask questions to determine cause and effect relationships of electric or magnetic interactions between two objects not in contact with each other.
 
 ---
-[Magnetic and Electrical Forces](PhysicalScience-Section1-3-PS2-3-MagneticAndElectrical.md)
+[Magnetic and Electrical Forces](PhysicalScience-Section3-3-PS2-3-MagneticAndElectrical.md)
 
 ---
 
@@ -131,7 +131,7 @@ Student has completed when they have:
 Define a simple design problem that can be solved by applying scientific ideas about magnets.
 
 ---
-[Engineering Design with Magnets](PhysicalScience-Section1-3-PS2-4-EngineeringWithMagnets.md)
+[Engineering Design with Magnets](PhysicalScience-Section4-3-PS2-4-EngineeringWithMagnets.md)
 
 ---
 
