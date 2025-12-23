@@ -37,7 +37,7 @@ This unit explores how objects move and interact through forces, motion patterns
 Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.
 
 ---
-[Balanced and Unbalanced Forces](PhysicalScience-Section1-3-PS2-1-Balanced-And-Unbalanced.md)
+[Balanced and Unbalanced Forces](physicalscience-section1-3-ps2-1-balanced-and-unbalanced.md)
 ---
 ## COMPLETION CHECKLIST - Section 1
 
